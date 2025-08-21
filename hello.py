@@ -1,4 +1,6 @@
 print("hello everyone")
 
-out= input("hi how are you\n")
-print(out)
+out1= input("hi how are you\n")
+print(out1)
+out2= input("how is your health now\n")
+print(out2)
