@@ -1,3 +1,4 @@
 print("hello everyone")
 
-print("hope you all are doing good")
+out= input("hi how are you\n")
+print(out)
